@@ -1,0 +1,22 @@
+.card {
+    background-color: rgb(241, 244, 245);
+    border-radius: 30px;
+    border: 4px solid turquoise;
+    padding: 20px;
+}
+
+.stock {
+    color: green;
+}
+
+.noStock {
+    color: red;
+}
+
+.button {
+    background-color: turquoise;
+    height: 30px;
+    border: 2px solid rgb(203, 242, 8);
+    border-radius: 10px;
+    width: 150px;
+}
